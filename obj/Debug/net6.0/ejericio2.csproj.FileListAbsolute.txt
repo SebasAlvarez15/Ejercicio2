@@ -1,0 +1,15 @@
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\bin\Debug\net6.0\ejericio2.exe
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\bin\Debug\net6.0\ejericio2.deps.json
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\bin\Debug\net6.0\ejericio2.runtimeconfig.json
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\bin\Debug\net6.0\ejericio2.dll
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\bin\Debug\net6.0\ejericio2.pdb
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.csproj.AssemblyReference.cache
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.AssemblyInfoInputs.cache
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.AssemblyInfo.cs
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.dll
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\refint\ejericio2.dll
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.pdb
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ejericio2.genruntimeconfig.cache
+C:\Users\Sebastian Alvarez\Desktop\ejericio2\obj\Debug\net6.0\ref\ejericio2.dll
